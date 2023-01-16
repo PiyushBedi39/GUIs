@@ -1,2 +1,3 @@
 # GUIs
-Graphical user interfaces using tkinter library
+Video face Detection program using OpenCV, pandas
+First frame of the video(background frame) should be fixed
