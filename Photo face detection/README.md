@@ -1,2 +1,2 @@
-# GUIs
-Graphical user interfaces using tkinter library
+# Photo Face detection program
+Program to detect faces in a photo
